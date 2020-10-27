@@ -1,0 +1,5 @@
+Common Rust
+Gray Leaf Spot
+Northern Leafblight
+Healty
+not a plant

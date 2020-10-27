@@ -1,0 +1,6 @@
+Earlyblight
+Lateblight
+Healthy
+Leaf Mold
+Leaf Curl
+not a plant
