@@ -1,5 +1,6 @@
+Not a Plant
 Common Rust
 Gray Leaf Spot
+Healthy
 Northern Leafblight
-Healty
-not a plant
+Not a Plant
